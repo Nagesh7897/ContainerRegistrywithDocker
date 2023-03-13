@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "exTjmlH5atTaqHybc6dN1Kje1czT99rlts7yVpmSkwkyD2hnkkN2Qt7wQBAiscH5oEuleWsiaFSro8foF5Mq0g==",
+  "success": true,
+  "projectFilePath": "D:\\AspDotNetCore\\ContainerRegistrywithDocker\\ContainerRegistrywithDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nagesh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
